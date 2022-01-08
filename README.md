@@ -1,7 +1,7 @@
 # Differentially Private (tabular) Generative Models Papers with Code
 
 ## Gaussian Copulas
-* DPSynthesizer | [Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions](http://www.openproceedings.org/EDBT/2014/paper_74.pdf) (Li et al., 2014) | [code](https://github.com/Emory-AIMS/DPCopula)
+* DPCopula | [Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions](http://www.openproceedings.org/EDBT/2014/paper_74.pdf) (Li et al., 2014) | [code](https://github.com/Emory-AIMS/DPCopula)
 
 
 ## Bayesian Networks
