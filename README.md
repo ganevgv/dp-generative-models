@@ -14,3 +14,4 @@
 ## GANs
 * DPGAN | [Differentially Private Generative Adversarial Network](https://arxiv.org/abs/1802.06739) (Xie et al., 2018) | [code](https://github.com/illidanlab/dpgan)
 * PATE-GAN | [PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) (Jordon et al., 2019) | [code](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/0b0190bcd38a76c405c805f1ca774971fcd85233/alg/pategan/), [code_1](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan)
+* G-PATE | [G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators](https://openreview.net/forum?id=_CmrI7UrmCl) (Long et al., 2021) | [code](https://github.com/AI-secure/G-PATE)
