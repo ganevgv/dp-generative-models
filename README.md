@@ -8,4 +8,8 @@
 ## Bayesian Networks
 * PrivBayes | [PrivBayes: Private Data Release via Bayesian Networks](https://dl.acm.org/doi/abs/10.1145/3134428) (Zhang et al., 2017) | [code (C++)](https://sourceforge.net/projects/privbayes/), [reimplementation (Python)](https://github.com/DataResponsibly/DataSynthesizer/blob/master/DataSynthesizer/lib/PrivBayes.py)
 
+## VAEs
+* DPGM | [Differentially Private Mixture of Generative Neural Networks](https://arxiv.org/abs/1709.04514) (Acs et al., 2017) 
 
+## GANs
+* PATE-GAN | [PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) (Jordon et al., 2019) | [code](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/0b0190bcd38a76c405c805f1ca774971fcd85233/alg/pategan/), [code_1](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan)
