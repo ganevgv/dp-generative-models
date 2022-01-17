@@ -13,6 +13,7 @@
 
 ## VAEs
 * DPGM | [Differentially Private Mixture of Generative Neural Networks](https://arxiv.org/abs/1709.04514) (Acs et al., 2017) 
+* DP-SYN | [Privacy Preserving Synthetic Data Release Using Deep Learning](https://www.researchgate.net/publication/330460051_Privacy_Preserving_Synthetic_Data_Release_Using_Deep_Learning) (Abay et al., 2018)
 
 
 ## GANs
