@@ -21,13 +21,16 @@
 * PATE-GAN | [PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) (Jordon et al., 2019) | [code](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/0b0190bcd38a76c405c805f1ca774971fcd85233/alg/pategan/), [code_1](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan)
 * dp-GAN-TSCD | [Diﬀerentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data](https://arxiv.org/abs/1901.02477) (Frigerio et al., 2019) | [code](https://github.com/Lory94/dp-GAN)
 * SPRINT-gan | [Privacy-Preserving Generative Deep Neural Networks Support Clinical Data Sharing](https://www.biorxiv.org/content/10.1101/159756v5) (Beaulieu-Jones et al., 2019) | [code](https://github.com/greenelab/SPRINT_gan)
+* DPautoGAN | [Differentially Private Synthetic Mixed-Type Data Generation For Unsupervised Learning](https://arxiv.org/abs/1912.03250) (Tantipongpipat et al., 2021) | [code](https://github.com/DPautoGAN/DPautoGAN)
 * G-PATE | [G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators](https://openreview.net/forum?id=_CmrI7UrmCl) (Long et al., 2021) | [code](https://github.com/AI-secure/G-PATE)
 
 
 ## Other Domains
 * GANobfuscator | [GANobfuscator: Mitigating Information Leakage Under GAN via Differential Privacy](https://ieeexplore.ieee.org/document/8636556) (Xu et al., 2019)
 * DP-CGAN | [DP-CGAN: Differentially Private Synthetic Data and Label Generation](https://arxiv.org/abs/2001.09700) (Torkzadehmahani et al., 2019) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN)
+* DP-Sinkhorn | [Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://arxiv.org/abs/2111.01177) (Cao et al., 2021) 
 
 
 ## Non Peer-Reviewed Models
 * dp-GAN | [Differentially Private Releasing via Deep Generative Model (Technical Report)](https://arxiv.org/abs/1801.01594) (Zhang et al., 2018) | [code](https://github.com/alps-lab/dpgan)
+* DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018) 
