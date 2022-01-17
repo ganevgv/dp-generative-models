@@ -14,7 +14,7 @@
 ## Graphical Models
 * PrivBayes | [PrivBayes: Private Data Release via Bayesian Networks](https://dl.acm.org/doi/abs/10.1145/3134428) (Zhang et al., 2017) | [code (C++)](https://sourceforge.net/projects/privbayes/), [reimplementation (Python)](https://github.com/DataResponsibly/DataSynthesizer/blob/master/DataSynthesizer/lib/PrivBayes.py)
 * MST | [Winning the NIST Contest: A Scalable and General Approach to Differentially Private Synthetic Data](https://arxiv.org/abs/2108.04978) (McKenna et al., 2021) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/mst.py)
-* PrivMRF | [Data Synthesis via Differentially Private Markov Random Fields](http://www.vldb.org/pvldb/vol14/p2190-cai.pdf) (Cai et al.,) | [code](https://github.com/caicre/PrivMRF)
+* PrivMRF | [Data Synthesis via Differentially Private Markov Random Fields](http://www.vldb.org/pvldb/vol14/p2190-cai.pdf) (Cai et al., 2021) | [code](https://github.com/caicre/PrivMRF)
 
 
 ## VAEs
