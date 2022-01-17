@@ -21,5 +21,9 @@
 * G-PATE | [G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators](https://openreview.net/forum?id=_CmrI7UrmCl) (Long et al., 2021) | [code](https://github.com/AI-secure/G-PATE)
 
 
+## Other Domains
+* GANobfuscator | [GANobfuscator: Mitigating Information Leakage Under GAN via Differential Privacy](https://ieeexplore.ieee.org/document/8636556) (Xu et al., 2019)
+
+
 ## Non Peer-Reviewed Models
 * dp-GAN | [Differentially Private Releasing via Deep Generative Model (Technical Report)](https://arxiv.org/abs/1801.01594) (Zhang et al., 2018) | [code](https://github.com/alps-lab/dpgan)
