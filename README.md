@@ -7,6 +7,7 @@
 
 
 ## Marginals
+* DPSyn | [DPSyn: Experiences in the NIST Differential Privacy Data Synthesis Challenges](https://arxiv.org/abs/2106.12949) (Li et al, 2021) | [code](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn) [code_1](https://github.com/agl-c/deid2_dpsyn)
 * PrivSyn | [PrivSyn: Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15128) (Zhang et al., 2021)
 
 
@@ -39,6 +40,11 @@
 * DP-CGAN | [DP-CGAN: Differentially Private Synthetic Data and Label Generation](https://arxiv.org/abs/2001.09700) (Torkzadehmahani et al., 2019) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN)
 * GS-WGAN | [GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators](https://arxiv.org/abs/2006.08265) (Chen et al., 2020) | [code](https://github.com/DingfanChen/GS-WGAN)
 * DP-Sinkhorn | [Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://arxiv.org/abs/2111.01177) (Cao et al., 2021) 
+
+
+## Other NIST Differential Privacy Challenges Solutions
+* DP-WGAN | Differentially Private Dataset Release using Wasserstein GANs (Alzantot et al., 2019) | [code](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge)
+* DPFieldGroups | Differential Privacy Synthetic Data Challenge Algorithm (Gardner, 2019) | [code](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPFieldGroups)
 
 
 ## Non Peer-Reviewed Models
