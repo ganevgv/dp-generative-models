@@ -8,7 +8,7 @@
 
 ## Graphical Models
 * PrivBayes | [PrivBayes: Private Data Release via Bayesian Networks](https://dl.acm.org/doi/abs/10.1145/3134428) (Zhang et al., 2017) | [code (C++)](https://sourceforge.net/projects/privbayes/), [reimplementation (Python)](https://github.com/DataResponsibly/DataSynthesizer/blob/master/DataSynthesizer/lib/PrivBayes.py)
-* MST | [Winning the NIST Contest: A scalable and general approach to differentially private synthetic data](https://arxiv.org/abs/2108.04978) (McKenna et al., 2021) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/mst.py)
+* MST | [Winning the NIST Contest: A Scalable and General Approach to Differentially Private Synthetic Data](https://arxiv.org/abs/2108.04978) (McKenna et al., 2021) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/mst.py)
 
 
 ## VAEs
@@ -19,6 +19,7 @@
 * DPGAN | [Differentially Private Generative Adversarial Network](https://arxiv.org/abs/1802.06739) (Xie et al., 2018) | [code](https://github.com/illidanlab/dpgan)
 * PATE-GAN | [PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) (Jordon et al., 2019) | [code](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/0b0190bcd38a76c405c805f1ca774971fcd85233/alg/pategan/), [code_1](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan)
 * dp-GAN-TSCD | [Diﬀerentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data](https://arxiv.org/abs/1901.02477) (Frigerio et al., 2019) | [code](https://github.com/Lory94/dp-GAN)
+* SPRINT-gan | [Privacy-Preserving Generative Deep Neural Networks Support Clinical Data Sharing](https://www.biorxiv.org/content/10.1101/159756v5) (Beaulieu-Jones et al., 2019) | [code](https://github.com/greenelab/SPRINT_gan)
 * G-PATE | [G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators](https://openreview.net/forum?id=_CmrI7UrmCl) (Long et al., 2021) | [code](https://github.com/AI-secure/G-PATE)
 
 
