@@ -5,12 +5,15 @@
 * DPCopula | [Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions](http://www.openproceedings.org/EDBT/2014/paper_74.pdf) (Li et al., 2014) | [code](https://github.com/Emory-AIMS/DPCopula)
 * Copula-Shirley | [Growing Synthetic Data Through Differentially-Private Vine Copulas](https://petsymposium.org/2021/files/papers/issue3/popets-2021-0040.pdf) (Gambs et al., 2021) | [code](https://github.com/alxxrg/copula-shirley) | [video](https://www.youtube.com/watch?v=pYSA0bmhloQ)
 
+
 ## Marginals
 * PrivSyn | [PrivSyn: Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15128) (Zhang et al., 2021)
+
 
 ## Graphical Models
 * PrivBayes | [PrivBayes: Private Data Release via Bayesian Networks](https://dl.acm.org/doi/abs/10.1145/3134428) (Zhang et al., 2017) | [code (C++)](https://sourceforge.net/projects/privbayes/), [reimplementation (Python)](https://github.com/DataResponsibly/DataSynthesizer/blob/master/DataSynthesizer/lib/PrivBayes.py)
 * MST | [Winning the NIST Contest: A Scalable and General Approach to Differentially Private Synthetic Data](https://arxiv.org/abs/2108.04978) (McKenna et al., 2021) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/mst.py)
+* PrivMRF | [Data Synthesis via Differentially Private Markov Random Fields](http://www.vldb.org/pvldb/vol14/p2190-cai.pdf) (Cai et al.,) | [code](https://github.com/caicre/PrivMRF)
 
 
 ## VAEs
