@@ -27,6 +27,10 @@
 * G-PATE | [G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators](https://openreview.net/forum?id=_CmrI7UrmCl) (Long et al., 2021) | [code](https://github.com/AI-secure/G-PATE)
 
 
+## Other Approaches
+* Kamino | [Kamino: Constraint-Aware Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15713) (Ge et al., 2021) | [code](https://github.com/cgebest/kamino)
+
+
 ## Other Domains
 * GANobfuscator | [GANobfuscator: Mitigating Information Leakage Under GAN via Differential Privacy](https://ieeexplore.ieee.org/document/8636556) (Xu et al., 2019)
 * DP-CGAN | [DP-CGAN: Differentially Private Synthetic Data and Label Generation](https://arxiv.org/abs/2001.09700) (Torkzadehmahani et al., 2019) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN)
