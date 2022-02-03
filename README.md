@@ -32,6 +32,7 @@
 
 
 ## Other Approaches
+* RON-Gauss | [RON-Gauss: Enhancing Utility in Non-Interactive Private Data Release](https://arxiv.org/abs/1709.00054) (Chanyaswad et al., 2019) | [code](https://github.com/inspire-group/RON-Gauss)
 * Kamino | [Kamino: Constraint-Aware Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15713) (Ge et al., 2021) | [code](https://github.com/cgebest/kamino)
 
 
