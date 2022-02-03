@@ -38,7 +38,7 @@
 * Kamino | [Kamino: Constraint-Aware Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15713) (Ge et al., 2021) | [code](https://github.com/cgebest/kamino)
 
 
-## Other Domains
+## Other Data Domains
 * GANobfuscator | [GANobfuscator: Mitigating Information Leakage Under GAN via Differential Privacy](https://ieeexplore.ieee.org/document/8636556) (Xu et al., 2019)
 * DP-CGAN | [DP-CGAN: Differentially Private Synthetic Data and Label Generation](https://arxiv.org/abs/2001.09700) (Torkzadehmahani et al., 2019) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN)
 * GS-WGAN | [GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators](https://arxiv.org/abs/2006.08265) (Chen et al., 2020) | [code](https://github.com/DingfanChen/GS-WGAN)
