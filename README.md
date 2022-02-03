@@ -7,7 +7,7 @@
 
 
 ## Marginals
-* DPSyn | [DPSyn: Experiences in the NIST Differential Privacy Data Synthesis Challenges](https://arxiv.org/abs/2106.12949) (Li et al, 2021) | [code](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn) [code_1](https://github.com/agl-c/deid2_dpsyn)
+* DPSyn | [DPSyn: Experiences in the NIST Differential Privacy Data Synthesis Challenges](https://arxiv.org/abs/2106.12949) (Li et al., 2021) | [code](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn) [code_1](https://github.com/agl-c/deid2_dpsyn)
 * PrivSyn | [PrivSyn: Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15128) (Zhang et al., 2021)
 
 
