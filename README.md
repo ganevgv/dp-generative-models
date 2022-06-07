@@ -36,7 +36,7 @@
 * FEM | [New Oracle-Efficient Algorithms for Private Synthetic Data Release](https://arxiv.org/abs/2007.05453) (Vietri et al., 2020) | [code](https://github.com/giusevtr/fem)
 * RAP | [Differentially Private Query Release Through Adaptive Projection](https://arxiv.org/abs/2103.06641) (Aydore et al., 2021) | [code](https://github.com/amazon-research/relaxed-adaptive-projection)
 * Kamino | [Kamino: Constraint-Aware Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15713) (Ge et al., 2021) | [code](https://github.com/cgebest/kamino)
-* PEP, GEM | [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153) (Lui et al., 2021) | [code](https://github.com/terranceliu/iterative-dp), [code_1](https://github.com/terranceliu/dp-query-release)
+* PEP, GEM | [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153) (Liu et al., 2021) | [code](https://github.com/terranceliu/iterative-dp), [code_1](https://github.com/terranceliu/dp-query-release)
 
 
 ## Other NIST Differential Privacy Challenges Solutions
