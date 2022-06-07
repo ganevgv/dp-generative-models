@@ -55,3 +55,4 @@
 ## Non Peer-Reviewed Models
 * dp-GAN | [Differentially Private Releasing via Deep Generative Model (Technical Report)](https://arxiv.org/abs/1801.01594) (Zhang et al., 2018) | [code](https://github.com/alps-lab/dpgan)
 * DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018) 
+* AIM | [AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data](https://arxiv.org/abs/2201.12677) (McKenna et al., 2022) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/aim.py)
