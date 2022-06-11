@@ -3,6 +3,7 @@
 
 ## Copulas
 * DPCopula | [Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions](http://www.openproceedings.org/EDBT/2014/paper_74.pdf) (Li et al., 2014) | [code](https://github.com/Emory-AIMS/DPCopula)
+* dpc | [Differentially Private Release of High-Dimensional Datasets using the Gaussian Copula](https://arxiv.org/abs/1902.01499) (Asghar et al., 2020)
 * Copula-Shirley | [Growing Synthetic Data Through Differentially-Private Vine Copulas](https://petsymposium.org/2021/files/papers/issue3/popets-2021-0040.pdf) (Gambs et al., 2021) | [code](https://github.com/alxxrg/copula-shirley) | [video](https://www.youtube.com/watch?v=pYSA0bmhloQ)
 
 
