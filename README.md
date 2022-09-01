@@ -17,6 +17,7 @@
 * PrivMN | [Differentially Private High-Dimensional Data Publication via Markov Network](https://www.researchgate.net/publication/334758350_Differentially_Private_High-Dimensional_Data_Publication_via_Markov_Network) (Zhang et al., 2019)
 * MST | [Winning the NIST Contest: A Scalable and General Approach to Differentially Private Synthetic Data](https://arxiv.org/abs/2108.04978) (McKenna et al., 2021) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/mst.py)
 * PrivMRF | [Data Synthesis via Differentially Private Markov Random Fields](http://www.vldb.org/pvldb/vol14/p2190-cai.pdf) (Cai et al., 2021) | [code](https://github.com/caicre/PrivMRF)
+* dpart | [dpart: Differentially Private Autoregressive Tabular, a General Framework for Synthetic Data Generation](https://arxiv.org/abs/2207.05810) (Mahiou et al., 2022) | [code](https://github.com/hazy/dpart)
 
 
 ## VAEs
