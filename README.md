@@ -41,6 +41,9 @@
 * RAP | [Differentially Private Query Release Through Adaptive Projection](https://arxiv.org/abs/2103.06641) (Aydore et al., 2021) | [code](https://github.com/amazon-research/relaxed-adaptive-projection)
 * Kamino | [Kamino: Constraint-Aware Differentially Private Data Synthesis](https://arxiv.org/abs/2012.15713) (Ge et al., 2021) | [code](https://github.com/cgebest/kamino)
 * PEP, GEM | [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153) (Liu et al., 2021) | [code](https://github.com/terranceliu/iterative-dp), [code_1](https://github.com/terranceliu/dp-query-release)
+* AIM | [AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data](https://arxiv.org/abs/2201.12677) (McKenna et al., 2022) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/aim.py)
+* RAP++ | [Private Synthetic Data for Multitask Learning and Marginal Queries](https://arxiv.org/abs/2209.07400) (Vietri et al., 2022)
+
 
 
 ## Other NIST Differential Privacy Challenges Solutions
@@ -59,4 +62,3 @@
 ## Non Peer-Reviewed Models
 * dp-GAN | [Differentially Private Releasing via Deep Generative Model (Technical Report)](https://arxiv.org/abs/1801.01594) (Zhang et al., 2018) | [code](https://github.com/alps-lab/dpgan)
 * DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018) 
-* AIM | [AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data](https://arxiv.org/abs/2201.12677) (McKenna et al., 2022) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/aim.py)
