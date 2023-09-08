@@ -64,3 +64,4 @@
 * DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018)
 * [Differentially Private Diffusion Models Generate Useful Synthetic Images](https://arxiv.org/abs/2302.13861) (Ghalebikesabi et al., 2023)
 * [Differentially Private Latent Diffusion Models](https://arxiv.org/abs/2305.15759) (Lyu et al., 2023)
+* ProgSyn | [Programmable Synthetic Tabular Data Generation](https://arxiv.org/abs/2307.03577) (Vero et al., 2023)
