@@ -56,11 +56,11 @@
 * GS-WGAN | [GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators](https://arxiv.org/abs/2006.08265) (Chen et al., 2020) | [code](https://github.com/DingfanChen/GS-WGAN)
 * DPDoppelGANger | [Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions](https://arxiv.org/abs/1909.13403) (Lin et al., 2020) | [code](https://github.com/fjxmlzn/DoppelGANger)
 * DP-Sinkhorn | [Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://arxiv.org/abs/2111.01177) (Cao et al., 2021)
+* DPDMs | [Differentially Private Diffusion Models](https://arxiv.org/abs/2210.09929) (Dockhorn et al., 2023) | [code](https://github.com/nv-tlabs/DPDM)
 
 
 ## Non Peer-Reviewed Models
 * dp-GAN | [Differentially Private Releasing via Deep Generative Model (Technical Report)](https://arxiv.org/abs/1801.01594) (Zhang et al., 2018) | [code](https://github.com/alps-lab/dpgan)
-* DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018) 
-* DPDMs | [Differentially Private Diffusion Models](https://arxiv.org/abs/2210.09929) (Dockhorn et al., 2022) | [code](https://github.com/nv-tlabs/DPDM)
+* DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018)
 * [Differentially Private Diffusion Models Generate Useful Synthetic Images](https://arxiv.org/abs/2302.13861) (Ghalebikesabi et al., 2023)
 * [Differentially Private Latent Diffusion Models](https://arxiv.org/abs/2305.15759) (Lyu et al., 2023)
