@@ -34,6 +34,9 @@
 * DPautoGAN | [Differentially Private Synthetic Mixed-Type Data Generation For Unsupervised Learning](https://arxiv.org/abs/1912.03250) (Tantipongpipat et al., 2021) | [code](https://github.com/DPautoGAN/DPautoGAN)
 * G-PATE | [G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators](https://openreview.net/forum?id=_CmrI7UrmCl) (Long et al., 2021) | [code](https://github.com/AI-secure/G-PATE)
 
+## Transformers
+* DP-TBART | [DP-TBART: A Transformer-based Autoregressive Model for Differentially Private Tabular Data Generation](https://arxiv.org/abs/2307.10430) (Castellon et al., 2023)
+
 
 ## Other Approaches
 * RON-Gauss | [RON-Gauss: Enhancing Utility in Non-Interactive Private Data Release](https://arxiv.org/abs/1709.00054) (Chanyaswad et al., 2019) | [code](https://github.com/inspire-group/RON-Gauss)
@@ -58,12 +61,12 @@
 * DPDoppelGANger | [Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions](https://arxiv.org/abs/1909.13403) (Lin et al., 2020) | [code](https://github.com/fjxmlzn/DoppelGANger)
 * DP-Sinkhorn | [Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://arxiv.org/abs/2111.01177) (Cao et al., 2021)
 * DPDMs | [Differentially Private Diffusion Models](https://arxiv.org/abs/2210.09929) (Dockhorn et al., 2023) | [code](https://github.com/nv-tlabs/DPDM)
+* DP-LDMs | [Differentially Private Latent Diffusion Models](https://arxiv.org/abs/2305.15759) (Lyu et al., 2023) | [code](https://github.com/SaiyueLyu/DP-LDM)
 
 
 ## Non Peer-Reviewed Models
 * dp-GAN | [Differentially Private Releasing via Deep Generative Model (Technical Report)](https://arxiv.org/abs/1801.01594) (Zhang et al., 2018) | [code](https://github.com/alps-lab/dpgan)
 * DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018)
 * [Differentially Private Diffusion Models Generate Useful Synthetic Images](https://arxiv.org/abs/2302.13861) (Ghalebikesabi et al., 2023)
-* [Differentially Private Latent Diffusion Models](https://arxiv.org/abs/2305.15759) (Lyu et al., 2023)
 * PPSyn | [Partition-based differentially private synthetic data generation](https://arxiv.org/abs/2310.06371) (Zhang et al., 2023)
 * TableDiffusion | [Generating tabular datasets under differential privacy](https://arxiv.org/abs/2308.14784) (Truda, 2024) | [code](https://github.com/gianlucatruda/TableDiffusion)
