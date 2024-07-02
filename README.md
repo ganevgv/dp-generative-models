@@ -43,6 +43,7 @@
 * PEP, GEM | [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153) (Liu et al., 2021) | [code](https://github.com/terranceliu/iterative-dp), [code_1](https://github.com/terranceliu/dp-query-release)
 * AIM | [AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data](https://arxiv.org/abs/2201.12677) (McKenna et al., 2022) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/aim.py)
 * RAP++ | [Private Synthetic Data for Multitask Learning and Marginal Queries](https://arxiv.org/abs/2209.07400) (Vietri et al., 2022)
+* CuTS | [CuTS: Customizable Tabular Synthetic Data Generation](https://arxiv.org/abs/2307.03577) (Vero et al., 2024) | [code](https://github.com/eth-sri/cuts/)
 
 
 ## Other NIST Differential Privacy Challenges Solutions
@@ -64,5 +65,4 @@
 * DP-AuGM, DP-VaeGM | [Differentially Private Data Generative Models](https://arxiv.org/abs/1812.02274) (Chen et al., 2018)
 * [Differentially Private Diffusion Models Generate Useful Synthetic Images](https://arxiv.org/abs/2302.13861) (Ghalebikesabi et al., 2023)
 * [Differentially Private Latent Diffusion Models](https://arxiv.org/abs/2305.15759) (Lyu et al., 2023)
-* ProgSyn | [Programmable Synthetic Tabular Data Generation](https://arxiv.org/abs/2307.03577) (Vero et al., 2023)
 * PPSyn | [Partition-based differentially private synthetic data generation](https://arxiv.org/abs/2310.06371) (Zhang et al., 2023)
