@@ -46,6 +46,7 @@
 * PEP, GEM | [Iterative Methods for Private Synthetic Data: Unifying Framework and New Methods](https://arxiv.org/abs/2106.07153) (Liu et al., 2021) | [code](https://github.com/terranceliu/iterative-dp), [code_1](https://github.com/terranceliu/dp-query-release)
 * AIM | [AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data](https://arxiv.org/abs/2201.12677) (McKenna et al., 2022) | [code](https://github.com/ryan112358/private-pgm/blob/master/mechanisms/aim.py)
 * RAP++ | [Private Synthetic Data for Multitask Learning and Marginal Queries](https://arxiv.org/abs/2209.07400) (Vietri et al., 2022)
+* NAPSU-MQ | [Noise-Aware Statistical Inference with Differentially Private Synthetic Data](https://arxiv.org/abs/2205.14485) (Räisä et al., 2023) | [code](https://github.com/DPBayes/twinify)
 * CuTS | [CuTS: Customizable Tabular Synthetic Data Generation](https://arxiv.org/abs/2307.03577) (Vero et al., 2024) | [code](https://github.com/eth-sri/cuts/)
 
 
